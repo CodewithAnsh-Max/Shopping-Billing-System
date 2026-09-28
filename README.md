@@ -1,5 +1,10 @@
 # Shopping Billing System (Python)
 
+**🔗 Live Demo:** https://shopping-billing-system-xxxxx.streamlit.app
+
+**📂 GitHub Repository:** https://github.com/CodeWithAnsh-Max/Shopping-Billing-System
+
+
 Ye ek console-based Shopping Billing System hai jo Python me bana hai.
 
 ## Features
